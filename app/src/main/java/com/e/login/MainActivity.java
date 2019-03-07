@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
 EditText e_mail,passw;
 Button button;
-String email,password
+String email, password;
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
